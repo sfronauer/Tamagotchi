@@ -12,6 +12,8 @@ This project is a digital pet (Tamagotchi) built using an Arduino Uno.
 The goal is to simulate a small, interactive creature that you can feed, play with, and take care of over time.
 You interact with the pet through buttons, and your pet is shown on a LCD.
 
+All graphics and sprites are self-made pixel art, designed specifically for this project.
+
 ---
 
 ## 🕹️ Features
